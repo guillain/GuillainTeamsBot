@@ -1,0 +1,19 @@
+var config = {};
+
+config.name = 'TeamsBot';
+config.debug = '1';
+
+// Server
+config.host = 'localhost';
+config.host = '';
+config.port = '8082';
+config.url = '';
+config.key = '';
+config.certificate = '';
+
+// Teams
+config.MICROSOFT_APP_ID = '';
+config.MICROSOFT_APP_PASSWORD = '';
+
+// export config
+module.exports = config;

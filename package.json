@@ -1,0 +1,28 @@
+{
+  "name": "teamsbot",
+  "version": "1.0.0",
+  "description": "Teams bot",
+  "main": "teamsbot.js",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillain/teamsbot.git"
+  },
+  "keywords": [
+    "Teams",
+    "bot"
+  ],
+  "author": "guillain@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guillain/teamsbot/issues"
+  },
+  "homepage": "https://github.com/guillain/teamsbot#readme"
+}
